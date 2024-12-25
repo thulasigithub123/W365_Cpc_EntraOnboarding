@@ -1,8 +1,25 @@
+
 # W365_Cpc_EntraOnboarding
 
 
+![alt text](M365_Entra_Windows365CPC_powershell.gif)
+
+
+
+# Design
+
+![alt text](image-24.png)
+
+
+Flow:
+![alt text](image-26.png)
+
+
+
+# User Desktop View from Browser 
 
 ![alt text](image-21.png)
+
 
 
 # what is windows 365
